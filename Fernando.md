@@ -24,6 +24,11 @@
 
 
 
+
+
+
+
+
 # eEjercicio
 
 # Rap
@@ -39,5 +44,7 @@
 -THE CURE          -IRON MAIDEN
 -GUNS AND ROSES    -TWISTED SISTER
 
+# Canciones
+-Paraday city
 
 
